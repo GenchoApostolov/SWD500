@@ -1,0 +1,40 @@
+body {
+    font: 15px/1.5 Arial, Helvetica, sans-serif;
+}
+
+#wrapper {
+    width: 100vw;
+    overflow: auto;
+    margin: 0 auto;
+    background-color: antiquewhite;
+}
+
+h1 {
+    text-align: center;
+}
+
+#left_nav, #section {
+    float: left;
+    width: 45%;
+    margin-left: 5%;
+}
+
+#left_nav {
+    background-color: aquamarine;
+}
+
+a {
+    text-decoration: none;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10-
+}
+
+#section {
+    background-color: bisque;
+}
+
